@@ -1,8 +1,32 @@
-h1{
-    color: blue;
-}
-p{
+
+#animate1{
     background-color: rgb(242, 7, 7);
-    height: 150px;
-    width: 150px;
+    height: 100px;
+    width: 100px; 
+    margin-top: 5px;
+    position: relative;
+
+   
+}
+#animate2{
+    background-color: rgb(242, 7, 7);
+    height: 400px;
+    width: 400px; 
+    margin-top: 5px;
+    position: relative;
+}
+#animate3{
+    background-color: rgb(242, 7, 7);
+    height: 100px;
+    width: 100px; 
+    margin-top: 5px;
+    position: relative;
+}
+#animate4{
+    background-color: rgb(242, 7, 7);
+    height: 100px;
+    width: 100px; 
+    margin-top: 5px;
+    font: 20px;
+    position: relative;
 }
