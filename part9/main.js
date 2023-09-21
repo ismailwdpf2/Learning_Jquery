@@ -1,5 +1,9 @@
 $(document).ready(function () {
-$('button').click(function(){
-    $('.lorem').slideToggle('slow'); // slideshow, slideUp, slideDown,
+$('.btn').click(function(){
+    $('.lorem').slideDown(3000); // slideshow, slideUp, slideDown,
 })
+$('.stop').click(function(){
+    $('.lorem').stop();
+})
+
 });

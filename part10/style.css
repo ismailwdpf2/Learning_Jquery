@@ -15,8 +15,6 @@ h1{
     color: red;
     padding: 10px;
     margin: auto;
-    overflow: hidden;
-    display: none;
 }
 .stop{
     font-size: 20px;
