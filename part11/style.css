@@ -10,7 +10,7 @@ h1{
     margin: auto;
 }
 .lorem{
-    background-color: rgb(183, 183, 191);
+    /* background-color: rgb(183, 183, 191); */
     width: 400px;
     color: red;
     padding: 10px;

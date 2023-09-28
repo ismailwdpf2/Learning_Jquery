@@ -1,9 +1,8 @@
 $(document).ready(function () {
 $('.btn').click(function () {
-    // $('.lorem').hide(function(){
-    //     alert('hello')       //hide hobe pore alert dibe, (callback)
-    // });
-    $('.lorem').hide();
-    alert('hello');     //alert dibe pore hide hobe
+   $(".lorem").css('background','green')
+   .slideUp(2000)
+   .slideDown(2000)
+   .hide(2000);
 })
 });
