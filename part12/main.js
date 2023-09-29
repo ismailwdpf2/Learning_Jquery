@@ -8,3 +8,12 @@ $('#btn2').click(function () {
  
  });
 });
+
+$(document).ready(function () {
+   $('#btn3').click(function () {
+      alert($("#ismail").val());
+   });
+   $('#btn4').click(function () {
+      alert($("#git").attr("href"));
+   });
+});
